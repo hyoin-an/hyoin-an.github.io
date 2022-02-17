@@ -26,9 +26,9 @@ Thanks for reading!
 
 ## Education
 
-* Ph.D. in Statistics (Expected) (Dissertaion Advisor: Dr. Steven MacEachern) at the Ohio State University
-* M.S. in Statistics at Ewha Womans University, Republic of Korea
-* B.Econ and B.S. in Statistics at Ewha Womans University, Republic of Korea
+* Ph.D. in Statistics (Expected) (Dissertaion Advisor: Dr. Steven MacEachern), the Ohio State University, Columbus, Ohio
+* M.S. in Statistics, Ewha Womans University, Republic of Korea
+* B.Econ and B.S. in Statistics, Ewha Womans University, Republic of Korea
 
 ## Publication
 
