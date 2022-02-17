@@ -20,3 +20,22 @@ Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nico
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
 
 Thanks for reading!
+
+## Education
+
+* Ph.D. in Statistics (Expected) (Dissertaion Advisor: Dr. Steven MacEachern) at the Ohio State University
+* M.S. in Statistics at Ewha Womans University, Republic of Korea
+* B.Econ and B.S. in Statistics at Ewha Womans University, Republic of Korea
+
+## Publication
+
+
+
+## Experiences
+
+
+Here is my [CV]()!
+
+
+
+
