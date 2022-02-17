@@ -7,7 +7,7 @@ title: About
   This is a page to show my professional/academic journey
 </p>
 
-Here is my [CV]()!
+Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 
 
 Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
