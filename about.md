@@ -9,7 +9,7 @@ Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 
 * Ph.D. in Statistics (Expected) (Dissertaion Advisor: Dr. Steven MacEachern), the Ohio State University, Columbus, Ohio
 * M.S. in Statistics, Ewha Womans University, Republic of Korea
-* B.Econ and B.S. in Statistics, Ewha Womans University, Republic of Korea
+* B.A. in Economics and B.S. in Statistics, Ewha Womans University, Republic of Korea
 
 ## Publication
 
