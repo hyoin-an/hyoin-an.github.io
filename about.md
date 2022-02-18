@@ -14,7 +14,7 @@ Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 ## Publication
 
 [1] An, H., Won, S., & Yoo., J. K. (2017). Fused Sliced Average Variance Estimation, Journal of the Korean
-Statistical Society, Volume 46, Issue 4, Pages 623-628.
+Statistical Society, Volume 46, Issue 4, Pages 623-628. [[Link]](https://www.sciencedirect.com/science/article/pii/S1226319217300431?casa_token=T_W-lytb9rUAAAAA:XL5YiRclZCQDhwtVAom-GGIyoSz9nR7pstAsVGQcBjsz0IK94cFpyvyob6vuK4-XgSEYh9Jk79Y)
 
 [2] An, H., Choi, Y., Oh, R. E., & Song, J. W. (2019) Consumer Behavior Prediction using Airbnb Web Log
 data, The Korean Journal of Applied Statistics, Volume 32, Issue 3, Pages 391-404.
