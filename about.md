@@ -5,6 +5,12 @@ title: About
 
 Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 
+## Research Interest
+- Bayesian Nonparametrics
+- Quantile regression
+- Spatial/Time series modeling
+- Machine Learning
+
 ## Education
 
 * Ph.D. in Statistics, The Ohio State University, 2024 [Anticipated]
