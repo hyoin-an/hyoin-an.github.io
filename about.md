@@ -3,20 +3,64 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+## Research Interest
+- Bayesian Nonparametrics
+- Quantile regression
+- Spatial/Time series modeling
+- Machine Learning
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
+## Education
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
+* Ph.D. in Statistics, The Ohio State University, 2024 [Anticipated]
+  - Advisor: Dr. Steven MacEachern
+* M.S. in Statistics, Ewha Womans University, Korea, 2019
+  - Advisor: Dr. Jae Keun Yoo
+* B.A. in Economics and B.S. in Statistics, Ewha Womans University, Korea, 2017
 
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
+## Publications
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
+[1] An, H., Won, S., & Yoo., J. K. (2017). Fused Sliced Average Variance Estimation, Journal of the Korean
+Statistical Society, Volume 46, Issue 4, Pages 623-628. [[Link]](https://www.sciencedirect.com/science/article/pii/S1226319217300431?casa_token=T_W-lytb9rUAAAAA:XL5YiRclZCQDhwtVAom-GGIyoSz9nR7pstAsVGQcBjsz0IK94cFpyvyob6vuK4-XgSEYh9Jk79Y)
 
-Thanks for reading!
+[2] An, H., Choi, Y., Oh, R. E., & Song, J. W. (2019) Consumer Behavior Prediction using Airbnb Web Log data, The Korean Journal of Applied Statistics, Volume 32, Issue 3, Pages 391-404. [[Link]](https://www.koreascience.or.kr/article/JAKO201919341608325.page)
+
+[3] Lee, H. A., An, H., & Park, H. (2019) Identification of Dietary Patterns Related to Metabolic Diseases and Their Association with Cardiovascular Disease: From the Korean Genome and Epidemiology Study, Nutrients, Volume 11, Issue 10, 2434. [[Link]](https://www.mdpi.com/2072-6643/11/10/2434)
+
+[4] Lee, H. A. & An, H., (2020) The Effect of High Carbohydrate-to-fat Intake Ratios on Hypo-HDL-cholesterolemia Risk and HDL-cholesterol Levels over a 12-year Follow-up, Scientific Reports, 10, 913. [[Link]](https://www.nature.com/articles/s41598-020-57931-w)
+
+[5] Lee, H. A., An, H., & Lee, E. (2020) Dietary patterns related to cardiovascular disease based on reduced rank regression analysis of healthy middle-aged Koreans: data from the community-based Korean Genome and Epidemiology Study (KoGES) cohort, The American Journal of Clinical Nutrition, Volume 111, Issue 6, Pages 1159-1169. [[Link]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
+
+
+## Project/Research Experiences
+
+### Pulmonary Arterial Hypertension Analysis
+- Supervisor: Dr. Shili Lin (The Ohio State University)
+
+We built survival deep neural network models predicting 1 year survival of Pulmonary Arterial Hypertension patients using genetic pathways, checked variable importance, and compared performance of models using 10-fold cross validation on R and Python. 
+We fit Bayesian network models using clinical variables on Yale Open Data Access platform to analyze quality of life of Pulmonary Arterial Hypertension patients.
+
+### NISS Data Visualization Competition
+
+I created an [interactive plot](https://hyoinan.shinyapps.io/NISS_0104/) using R Shiny that visualizes an educational data from NISS. 
+It is introduced on Page 52 on the [NISS technical report](https://www.niss.org/sites/default/files/Innovative%20Visualization%20Panel%20-%20Final%20Report.pdf).
+
+### Chronic diseases and Nutrition Analysis
+- Supervisor: Dr. Hye Ah Lee (Ewha Womans University)
+
+This project was supported by Basic Science Research Program through National Research Foundation of Korea (NRF) funded by Ministry of Education (NRF-2017R1D1A1B03028719).
+We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations. [[3]](https://www.mdpi.com/2072-6643/11/10/2434) [[4]](https://www.nature.com/articles/s41598-020-57931-w) [[5]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
+
+### Consumer Behavior Prediction 
+
+We predicted binary decision-making time (fast/slow) of Airbnb customers until the first reservation, using web log data provided by Kaggle and published the results. 
+We created derived variables that helped improve prediction performance and used various machine learning methods such as Support vector machine, Gradient Boosting, and XGBoost on R. [[2]](https://www.koreascience.or.kr/article/JAKO201919341608325.page)
+
+### L Point Big Data Competition
+
+We participated as a team of three students to provide customized contents for customers, given demographic information and purchase logs of 18 thousands of customers. 
+We programmed a recommender system using R which suggests items that were purchased by customers who have similar demographic information and/or similar purchasing history, as well as weather and events according to the time of the year. 
+We won the second place. [[On newspaper]](https://m.etnews.com/20180228000084)
+
+
