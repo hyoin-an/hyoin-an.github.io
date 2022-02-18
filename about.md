@@ -55,5 +55,6 @@ We created derived variables that helped improve prediction performance and used
 
 We participated as a team of three students to provide customized contents for customers, given demographic information and purchase logs of 18 thousands of customers. 
 We programmed a recommender system using R which suggests items that were purchased by customers who have similar demographic information and/or similar purchasing history, as well as weather and events according to the time of the year. 
+We won the second place. [[News]](https://news.jtbc.joins.com/article/article.aspx?news_id=NB11596547)
 
 
