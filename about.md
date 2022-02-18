@@ -52,7 +52,3 @@ We participated as a team of three students to provide customized contents for c
 We programmed a recommender system using R which suggests items that were purchased by customers who have similar demographic information and/or similar purchasing history, as well as weather and events according to the time of the year.
 
 
-## Teaching
-
-
-
