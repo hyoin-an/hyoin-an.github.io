@@ -4,7 +4,7 @@ title: Quantile Regression Workshop
 ---
 
 <div class="message">
-  I went to the first in-person workshop in Miami!
+  I went to the first in-person workshop in Miami since the pandemic!
 </div>
 
 ### Quantile Regression and Data Heterogeneity Workshop
