@@ -19,7 +19,7 @@ Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
   - Advisor: Dr. Jae Keun Yoo
 * B.A. in Economics and B.S. in Statistics, Ewha Womans University, Korea, 2017
 
-## Publication
+## Publications
 
 [1] An, H., Won, S., & Yoo., J. K. (2017). Fused Sliced Average Variance Estimation, Journal of the Korean
 Statistical Society, Volume 46, Issue 4, Pages 623-628. [[Link]](https://www.sciencedirect.com/science/article/pii/S1226319217300431?casa_token=T_W-lytb9rUAAAAA:XL5YiRclZCQDhwtVAom-GGIyoSz9nR7pstAsVGQcBjsz0IK94cFpyvyob6vuK4-XgSEYh9Jk79Y)
