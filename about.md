@@ -38,7 +38,7 @@ We fit Bayesian network models using clinical variables on Yale Open Data Access
 ### NISS Data Visualization Competition
 
 I created an [interactive plot](https://hyoinan.shinyapps.io/NISS_0104/) using R Shiny that visualizes an educational data from NISS. 
-It is introduced on Page 52 on the [technical report](https://www.niss.org/sites/default/files/Innovative%20Visualization%20Panel%20-%20Final%20Report.pdf) from NISS. 
+It is introduced on Page 52 on the [NISS technical report](https://www.niss.org/sites/default/files/Innovative%20Visualization%20Panel%20-%20Final%20Report.pdf).
 
 ### Chronic diseases and Nutrition Analysis
 - Supervisor: Dr. Hye Ah Lee (Ewha Womans University)
