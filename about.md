@@ -36,12 +36,16 @@ Statistical Society, Volume 46, Issue 4, Pages 623-628. [[Link]](https://www.sci
 We built survival deep neural network models predicting 1 year survival of Pulmonary Arterial Hypertension patients using genetic pathways, checked variable importance, and compared performance of models using 10-fold cross validation on R and Python. 
 We fit Bayesian network models using clinical variables on Yale Open Data Access platform to analyze quality of life of Pulmonary Arterial Hypertension patients.
 
+#### NISS Data Visualization Competition
+I created an [interactive plot](https://hyoinan.shinyapps.io/NISS_0104/) using R Shiny that visualizes an educational data from NISS. 
+It is introduced on Page 52 on the [technical report](https://www.niss.org/sites/default/files/Innovative%20Visualization%20Panel%20-%20Final%20Report.pdf)
+
 #### Chronic diseases and Nutrition Analysis
 
 - Supervisor: Dr. Hye Ah Lee (Ewha Womans University)
 
 This project was supported by Basic Science Research Program through National Research Foundation of Korea (NRF) funded by Ministry of Education (NRF-2017R1D1A1B03028719).
-We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations. [[3]](https://www.mdpi.com/2072-6643/11/10/2434) [[4]](https://www.nature.com/articles/s41598-020-57931-w) (https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true) [[5]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
+We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations. [[3]](https://www.mdpi.com/2072-6643/11/10/2434) [[4]](https://www.nature.com/articles/s41598-020-57931-w) [[5]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
 
 #### Consumer Behavior Prediction 
 
