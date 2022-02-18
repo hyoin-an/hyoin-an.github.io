@@ -25,6 +25,34 @@ Statistical Society, Volume 46, Issue 4, Pages 623-628. [[Link]](https://www.sci
 [5] Lee, H. A., An, H., & Lee, E. (2020) Dietary patterns related to cardiovascular disease based on reduced rank regression analysis of healthy middle-aged Koreans: data from the community-based Korean Genome and Epidemiology Study (KoGES) cohort, The American Journal of Clinical Nutrition, Volume 111, Issue 6, Pages 1159-1169. [[Link]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
 
 
+## Project/Research Experiences
+
+#### Pulmonary Arterial Hypertension Analysis
+
+We built survival deep neural network models predicting 1 year survival of Pulmonary Arterial Hypertension patients using genetic pathways, checked variable importance, and compared performance of models using 10-fold cross validation on R and Python.
+
+We fit Bayesian network models using clinical variables on Yale Open Data Access platform to analyze quality of life of Pulmonary Arterial Hypertension patients.
+
+#### Chronic diseases and Nutrition Analysis
+
+This project was supported by Basic Science Research Program through National Research Foundation of Korea (NRF) funded by Ministry of Education (NRF-2017R1D1A1B03028719).
+
+We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations.
+
+#### Consumer Behavior Prediction 
+
+We predicted binary decision-making time (fast/slow) of Airbnb customers until the  rst reservation, using web log data provided by Kaggle and published the results. 
+
+We created derived variables that helped improve prediction performance and used various machine learning methods such as Support vector machine, Gradient Boosting, and XGBoost on R.
+
+#### L Point Big Data Competition
+
+We participated as a team of three students to provide customized contents for customers, given demographic information and purchase logs of 18 thousands of customers. 
+
+We programmed a recommender system using R which suggests items that were purchased by customers who have similar demographic information and/or similar purchasing history, as well as weather and events according to the time of the year.
+
+
+## Teaching
 
 
 
