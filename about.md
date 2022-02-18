@@ -41,12 +41,12 @@ We fit Bayesian network models using clinical variables on Yale Open Data Access
 - Supervisor: Dr. Hye Ah Lee (Ewha Womans University)
 
 This project was supported by Basic Science Research Program through National Research Foundation of Korea (NRF) funded by Ministry of Education (NRF-2017R1D1A1B03028719).
-We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations.
+We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations. [[3]](https://www.mdpi.com/2072-6643/11/10/2434) [[4]](https://www.nature.com/articles/s41598-020-57931-w) (https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true) [[5]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
 
 #### Consumer Behavior Prediction 
 
 We predicted binary decision-making time (fast/slow) of Airbnb customers until the first reservation, using web log data provided by Kaggle and published the results. 
-We created derived variables that helped improve prediction performance and used various machine learning methods such as Support vector machine, Gradient Boosting, and XGBoost on R. [[Link]](https://www.koreascience.or.kr/article/JAKO201919341608325.page)
+We created derived variables that helped improve prediction performance and used various machine learning methods such as Support vector machine, Gradient Boosting, and XGBoost on R. [[2]](https://www.koreascience.or.kr/article/JAKO201919341608325.page)
 
 #### L Point Big Data Competition
 
