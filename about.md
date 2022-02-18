@@ -8,9 +8,9 @@ Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 ## Education
 
 * Ph.D. in Statistics, The Ohio State University, Columbus, Ohio, 2024 [Anticipated]
-  - Dissertation Advisor: Dr. Steven MacEachern
+  - Advisor: Dr. Steven MacEachern
 * M.S. in Statistics, Ewha Womans University, Republic of Korea, 2019
-  - Thesis Advisor: Dr. Jae Keun Yoo
+  - Advisor: Dr. Jae Keun Yoo
 * B.A. in Economics and B.S. in Statistics, Ewha Womans University, Republic of Korea, 2016
 
 ## Publication
