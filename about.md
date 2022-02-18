@@ -10,6 +10,7 @@ Here is my [CV](files/HyoinAn_OSU_CV.pdf)!
 - Quantile regression
 - Spatial/Time series modeling
 - Machine Learning
+- Data Visualization
 
 ## Education
 
