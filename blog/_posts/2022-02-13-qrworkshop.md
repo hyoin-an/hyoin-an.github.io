@@ -7,7 +7,7 @@ title: Quantile Regression Workshop
   I went to the first in-person workshop in Miami!
 </div>
 
-## Quantile Regression and Data Heterogeneity Workshop
+### Quantile Regression and Data Heterogeneity Workshop
 
 The program agenda can be found [here](https://herbert.miami.edu/_assets/pdfs/faculty-research/business-conferences/quantile-regression-and-data-heterogeneity-workshop/workshop_program_updated.pdf).
 
