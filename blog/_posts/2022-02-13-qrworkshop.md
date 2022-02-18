@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Quantile Regression Workshop
-truncated_preview: true
-excerpt_separator: <!--more-->
 ---
 
 <div class="message">
