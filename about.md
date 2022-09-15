@@ -22,7 +22,8 @@ Here is my [CV](files/HyoinAn_OSU_CV_updated.pdf)!
 
 ## Experience
 
-### Analytics & Innovation Intern, United Airlines, Chigago, IL
+### Analytics & Innovation Intern
+- United Airlines, Chigago, IL
 
 Last summer I was an intern in Analytics & Innovation group at United Airlines, constructing a prototype model on the value and cost estimation of marketing emails based on propensity score matching framework. Communicating with analytics experts from my team and business experts from the marketing team, I pulled and transformed big data with more than 13 million rows using PySpark, SQL queries, and SAS macro. I utilized machine learning techniques such as Random Forest and Light GBM on feature selection and built algorithms on Python. I completed my internship with successfully presenting the models and results to both technical and non-technical associates.
 
