@@ -27,6 +27,17 @@ Here is my [CV](files/HyoinAn_OSU_CV_updated.pdf)!
 
 Last summer I was an intern in Analytics & Innovation group at United Airlines, constructing a prototype model on the value and cost estimation of marketing emails based on propensity score matching framework. Communicating with analytics experts from my team and business experts from the marketing team, I pulled and transformed big data with more than 13 million rows using PySpark, SQL queries, and SAS macro. I utilized machine learning techniques such as Random Forest and Light GBM on feature selection and built algorithms on Python. I completed my internship with successfully presenting the models and results to both technical and non-technical associates.
 
+### Consumer Behavior Prediction 
+
+We predicted binary decision-making time (fast/slow) of Airbnb customers until the first reservation, using web log data provided by Kaggle and published the results. 
+We created derived variables that helped improve prediction performance and used various machine learning methods such as Support vector machine, Gradient Boosting, and XGBoost on R. [[2]](https://www.koreascience.or.kr/article/JAKO201919341608325.page)
+
+### L Point Big Data Competition
+
+We participated as a team of three students to provide customized contents for customers, given demographic information and purchase logs of 18 thousands of customers. 
+We programmed a recommender system using R which suggests items that were purchased by customers who have similar demographic information and/or similar purchasing history, as well as weather and events according to the time of the year. 
+We won the second place. [[On newspaper]](https://m.etnews.com/20180228000084)
+
 ### Pulmonary Arterial Hypertension Analysis
 - Supervisor: Dr. Shili Lin (The Ohio State University)
 
@@ -43,17 +54,6 @@ It is introduced on Page 52 on the [NISS technical report](https://www.niss.org/
 
 This project was supported by Basic Science Research Program through National Research Foundation of Korea (NRF) funded by Ministry of Education (NRF-2017R1D1A1B03028719).
 We analyzed nutrition intake patterns to find linkage between nutrition intake patterns and chronic diseases using cohort data from Korean Genome and Epidemiology Study utilizing reduced rank regression, mixed models, and generalized estimating equations. [[3]](https://www.mdpi.com/2072-6643/11/10/2434) [[4]](https://www.nature.com/articles/s41598-020-57931-w) [[5]](https://academic.oup.com/ajcn/article/111/6/1159/5825658?login=true)
-
-### Consumer Behavior Prediction 
-
-We predicted binary decision-making time (fast/slow) of Airbnb customers until the first reservation, using web log data provided by Kaggle and published the results. 
-We created derived variables that helped improve prediction performance and used various machine learning methods such as Support vector machine, Gradient Boosting, and XGBoost on R. [[2]](https://www.koreascience.or.kr/article/JAKO201919341608325.page)
-
-### L Point Big Data Competition
-
-We participated as a team of three students to provide customized contents for customers, given demographic information and purchase logs of 18 thousands of customers. 
-We programmed a recommender system using R which suggests items that were purchased by customers who have similar demographic information and/or similar purchasing history, as well as weather and events according to the time of the year. 
-We won the second place. [[On newspaper]](https://m.etnews.com/20180228000084)
 
 
 ## Publications
